@@ -1,0 +1,30 @@
+{
+  "labels":[
+    "IMPETIGO",
+    "BRONCHIAL ASTHMA",
+    "DIMORPHIC HEMORRHOIDS",
+    "PEPTIC ULCER DISEASE",
+    "VARICOSE VEINS",
+    "DIABETES",
+    "PNEUMONIA",
+    "DRUG REACTION",
+    "CHICKEN POX",
+    "COMMON COLD",
+    "ALLERGY",
+    "HYPERTENSION",
+    "TYPHOID",
+    "URINARY TRACT INFECTION",
+    "CERVICAL SPONDYLOSIS",
+    "MIGRAINE",
+    "PSORIASIS",
+    "ACNE",
+    "GASTROESOPHAGEAL REFLUX DISEASE",
+    "FUNGAL INFECTION",
+    "MALARIA",
+    "JAUNDICE",
+    "DENGUE",
+    "ARTHRITIS"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
