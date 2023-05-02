@@ -1,0 +1,190 @@
+{
+  "lang":"en",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.5.2,<3.6.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"aea4a96f9",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "textcat":[
+      "PSORIASIS",
+      "VARICOSE VEINS",
+      "TYPHOID",
+      "CHICKEN POX",
+      "IMPETIGO",
+      "DENGUE",
+      "FUNGAL INFECTION",
+      "COMMON COLD",
+      "PNEUMONIA",
+      "DIMORPHIC HEMORRHOIDS",
+      "ARTHRITIS",
+      "ACNE",
+      "BRONCHIAL ASTHMA",
+      "HYPERTENSION",
+      "MIGRAINE",
+      "CERVICAL SPONDYLOSIS",
+      "JAUNDICE",
+      "MALARIA",
+      "URINARY TRACT INFECTION",
+      "ALLERGY",
+      "GASTROESOPHAGEAL REFLUX DISEASE",
+      "DRUG REACTION",
+      "PEPTIC ULCER DISEASE",
+      "DIABETES"
+    ]
+  },
+  "pipeline":[
+    "textcat"
+  ],
+  "components":[
+    "textcat"
+  ],
+  "disabled":[
+
+  ],
+  "performance":{
+    "cats_score":0.0,
+    "cats_score_desc":"macro F",
+    "cats_micro_p":0.0,
+    "cats_micro_r":0.0,
+    "cats_micro_f":0.0,
+    "cats_macro_p":0.0,
+    "cats_macro_r":0.0,
+    "cats_macro_f":0.0,
+    "cats_macro_auc":0.0,
+    "cats_f_per_type":{
+      "PSORIASIS":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "VARICOSE VEINS":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "TYPHOID":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "CHICKEN POX":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "IMPETIGO":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "DENGUE":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "FUNGAL INFECTION":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "COMMON COLD":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "PNEUMONIA":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "DIMORPHIC HEMORRHOIDS":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "ARTHRITIS":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "ACNE":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "BRONCHIAL ASTHMA":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "HYPERTENSION":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "MIGRAINE":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "CERVICAL SPONDYLOSIS":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "JAUNDICE":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "MALARIA":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "URINARY TRACT INFECTION":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "ALLERGY":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "GASTROESOPHAGEAL REFLUX DISEASE":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "DRUG REACTION":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "PEPTIC ULCER DISEASE":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "DIABETES":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      }
+    },
+    "textcat_loss":0.0004548862
+  }
+}
