@@ -2,13 +2,13 @@
   "lang":"en",
   "name":"pipeline",
   "version":"0.0.0",
-  "spacy_version":">=3.5.2,<3.6.0",
+  "spacy_version":">=3.3.2,<3.4.0",
   "description":"",
   "author":"",
   "email":"",
   "url":"",
   "license":"",
-  "spacy_git_version":"aea4a96f9",
+  "spacy_git_version":"4e032da3b",
   "vectors":{
     "width":0,
     "vectors":0,
@@ -185,6 +185,7 @@
         "f":0.0
       }
     },
-    "textcat_loss":0.0004548862
+    "cats_macro_auc_per_type":0.0,
+    "textcat_loss":0.0014736068
   }
 }
